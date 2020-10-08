@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<opml version="1.0">
+	<head>
+		<title>Pocket Casts Feeds</title>
+	</head>
+	<body>
+		<outline text="feeds">
+			<outline xmlUrl="https://Anyway.FM/rss.xml" text="Anyway.FM 设计杂谈" type="rss" />
+			<outline text="软件那些事儿" xmlUrl="http://www.ximalaya.com/album/4494083.xml" type="rss" />
+			<outline text="迟早更新" xmlUrl="https://feeds.fireside.fm/czgx/rss" type="rss" />
+			<outline type="rss" xmlUrl="https://feeds.fireside.fm/fullofmind/rss" text="Full of Mind" />
+			<outline type="rss" xmlUrl="https://feeds.fireside.fm/bitchup/rss" text="婊酱｜Bitch Up" />
+			<outline text="剩余价值SurplusValue" xmlUrl="https://www.surplusvalue.club/rss" type="rss" />
+			<outline type="rss" xmlUrl="https://uxcoffee.typlog.io/episodes/feed.xml" text="UX Coffee 设计咖" />
+			<outline type="rss" xmlUrl="https://feeds.fireside.fm/shengdongjixi/rss" text="声东击西" />
+			<outline xmlUrl="https://fourgifts.typlog.io/episodes/feed.xml" type="rss" text="神爱玩财" />
+			<outline type="rss" text="Global News Podcast" xmlUrl="https://podcasts.files.bbci.co.uk/p02nq0gn.rss" />
+			<outline xmlUrl="https://storyfm.cn/feed/episodes" text="故事 FM" type="rss" />
+			<outline xmlUrl="https://www.thetype.com/typechat/feed/" type="rss" text="字谈字畅" />
+			<outline type="rss" text="代码时间" xmlUrl="http://www.ximalaya.com/album/4867505.xml" />
+			<outline type="rss" text="追科技撩艺术" xmlUrl="https://doko.com/podcasts/feed.xml" />
+			<outline type="rss" xmlUrl="https://miechakucha.com/episodes/feed.xml" text="灭茶苦茶" />
+			<outline xmlUrl="https://feeds.fireside.fm/techreviewsocial/rss" type="rss" text="社会人科技评论" />
+			<outline xmlUrl="https://pan.icu/feed" type="rss" text="内核恐慌" />
+			<outline text="一天世界" xmlUrl="https://yitianshijie.net/episodes/feed.xml" type="rss" />
+			<outline xmlUrl="https://pretro.xyz/feed" text="提前怀旧" type="rss" />
+			<outline xmlUrl="https://getpodcast.xyz/data/ximalaya/7382293.xml" type="rss" text="VG聊天室" />
+			<outline xmlUrl="http://www.ximalaya.com/album/3385980.xml" text="静说日本 · 徐静波" type="rss" />
+			<outline xmlUrl="https://open.firstory.me/rss/user/ckcvbzcnsy4s30972657pjww9" type="rss" text="无业游民 The Unemployable" />
+			<outline xmlUrl="https://feeds.fireside.fm/guiguzaozhidao/rss" text="硅谷早知道" type="rss" />
+			<outline type="rss" text="99% Invisible" xmlUrl="https://feeds.99percentinvisible.org/99percentinvisible" />
+			<outline type="rss" text="一席" xmlUrl="http://rss.kaolafm.com/MZ_RSS/rss/1100000046138/album.xml" />
+			<outline type="rss" text="Whatever.FM 随便侬" xmlUrl="https://whatever.fm/rss.xml" />
+			<outline text="a16z Podcast" type="rss" xmlUrl="https://feeds.simplecast.com/JGE3yC0V" />
+			<outline xmlUrl="https://feeds.fireside.fm/shejiyaodian/rss" type="rss" text="设计药电" />
+			<outline xmlUrl="https://feeds.megaphone.fm/landofthegiants" text="Land of the Giants" type="rss" />
+			<outline xmlUrl="http://feeds.serialpodcast.org/serialpodcast" text="Serial" type="rss" />
+			<outline type="rss" xmlUrl="https://feeds.transistor.fm/nicktalk" text="尼克逃課 NickTalk" />
+			<outline type="rss" text="Crazy/Genius" xmlUrl="https://feeds.megaphone.fm/crazygenius" />
+			<outline type="rss" text="不丧" xmlUrl="http://www.busangpodcast.com/episodes/feed.xml" />
+			<outline type="rss" xmlUrl="http://thespiral.fm/episodes/feed.xml" text="海螺电台 | The Spiral" />
+			<outline text="不可理论" xmlUrl="https://feeds.fireside.fm/bukelilun/rss" type="rss" />
+			<outline xmlUrl="https://www.xuanmei.us/episodes/feed.xml" type="rss" text="选·美" />
+			<outline type="rss" text="比特新声" xmlUrl="https://bitvoice.banlan.show/episodes/feed.xml" />
+			<outline text="Today, Explained" xmlUrl="https://feeds.megaphone.fm/VMP5705694065" type="rss" />
+			<outline text="IT 公论" xmlUrl="https://www.itgonglun.com/episodes/feed.xml" type="rss" />
+			<outline text="Overtime" xmlUrl="https://feeds.simplecast.com/ge7lYlnT" type="rss" />
+			<outline xmlUrl="https://bowuzhi.fm/episodes/feed.xml" type="rss" text="博物志" />
+			<outline xmlUrl="https://raw.githubusercontent.com/numbbbbb/ggtalk-rss/master/rss.xml" text="ggtalk" type="rss" />
+			<outline xmlUrl="https://feeds.pacific-content.com/commandlineheroes" text="Command Line Heroes" type="rss" />
+			<outline xmlUrl="https://feeds.simplecast.com/eew_vyNL" type="rss" text="Design Details" />
+			<outline xmlUrl="https://api.vistopia.com.cn/rss/program/13.xml" text="看理想电台" type="rss" />
+			<outline text="得意忘形播客" xmlUrl="http://rss.lizhi.fm/rss/1959617.xml" type="rss" />
+			<outline xmlUrl="https://jiaocha.io/feed.xml" text="交差点" type="rss" />
+			<outline type="rss" text="怪物尚志 MonsLog" xmlUrl="https://feeds.fireside.fm/fashionmonster/rss" />
+			<outline text="味之道" xmlUrl="https://feeds.fireside.fm/wzd/rss" type="rss" />
+			<outline type="rss" xmlUrl="https://taiyilaile.com/episodes/feed.xml" text="太医来了" />
+			<outline type="rss" xmlUrl="https://keepcalm.banlan.show/episodes/feed.xml" text="保持冷静" />
+			<outline xmlUrl="https://feeds.fireside.fm/bytecoffee/rss" type="rss" text="Byte.Coffee" />
+			<outline text="疯投圈" xmlUrl="https://crazy.capital/feed" type="rss" />
+			<outline type="rss" text="枫言枫语" xmlUrl="https://justinyan.me/feed/podcast" />
+			<outline type="rss" text="捕蛇者说" xmlUrl="https://pythonhunter.org/episodes/feed.xml" />
+			<outline type="rss" text="到海外去" xmlUrl="https://feeds.fireside.fm/chuhai/rss" />
+			<outline text="一言不合" xmlUrl="http://www.ximalaya.com/album/5971303.xml" type="rss" />
+			<outline xmlUrl="https://hardimage.pro/episodes/feed.xml" type="rss" text="硬影像" />
+			<outline xmlUrl="https://feeds.buzzsprout.com/258327.rss" type="rss" text="Loud Murmurs 小声喧哗" />
+			<outline type="rss" text="60-Second Science" xmlUrl="https://www.scientificamerican.com/sciam/xml/iTunes.cfm?id=60-second-science" />
+			<outline xmlUrl="https://feeds.megaphone.fm/replyall" text="Reply All" type="rss" />
+			<outline text="infoier | 设计乘数" xmlUrl="http://rss.lizhi.fm/rss/3479708.xml" type="rss" />
+			<outline xmlUrl="https://justpodmedia.com/rss/left-right.xml" type="rss" text="忽左忽右" />
+			<outline text="折尔根播客" xmlUrl="https://zheergen.club/episodes/feed.xml" type="rss" />
+			<outline text="流行通信" type="rss" xmlUrl="https://popdispat.ch/episodes/feed.xml" />
+			<outline type="rss" text="机核网 GADIO 游戏广播" xmlUrl="http://feed.tangsuanradio.com/gadio.xml" />
+			<outline text="硅谷101" type="rss" xmlUrl="https://feeds.fireside.fm/sv101/rss" />
+			<outline xmlUrl="https://avocadotoast.typlog.io/episodes/feed.xml" type="rss" text="牛油果烤面包" />
+			<outline xmlUrl="http://rss.lizhi.fm/rss/1310979.xml" text="异能FM X 全球设计故事" type="rss" />
+			<outline type="rss" xmlUrl="https://feeds.fireside.fm/sspai/rss" text="一派·Podcast - 少数派 SSPAI 旗下播客节目" />
+			<outline type="rss" text="字型腦補 A Knob of Font" xmlUrl="https://open.firstory.me/rss/user/ckd8eyqrht5d808561g6hxm1t" />
+			<outline text="Feeling Good Podcast | TEAM-CBT - The New Mood Therapy" type="rss" xmlUrl="http://feelinggood.libsyn.com/rss" />
+			<outline text="《你次饭没》电台版" xmlUrl="http://www.ximalaya.com/album/31631044.xml" type="rss" />
+			<outline type="rss" xmlUrl="https://designobserver.com/show.designmatters2009-10.xml" text="Design Matters with Debbie Millman" />
+			<outline xmlUrl="https://feeds.fireside.fm/beartalk/rss" type="rss" text="狗熊有话说" />
+			<outline type="rss" text="FM 3.14 - 少数派旗下音乐主题播客" xmlUrl="https://feeds.fireside.fm/fm314/rss" />
+			<outline text="Apple News Today" type="rss" xmlUrl="https://apple.news/podcast/apple_news_today" />
+			<outline xmlUrl="http://feed.songexploder.net/songexploder" type="rss" text="Song Exploder" />
+			<outline type="rss" text="日谈公园" xmlUrl="http://www.ximalaya.com/album/5574153.xml" />
+			<outline xmlUrl="https://feeds.fireside.fm/stovol/rss" type="rss" text="随机波动StochasticVolatility" />
+			<outline text="梁文道·八分" xmlUrl="https://api.vistopia.com.cn/rss/program/11.xml" type="rss" />
+			<outline xmlUrl="https://justpodmedia.com/rss/bessies-notes.xml" text="贝望录" type="rss" />
+			<outline text="日谈物语" xmlUrl="https://papi.qingting.fm/podcast/channels/10153" type="rss" />
+		</outline>
+	</body>
+</opml>

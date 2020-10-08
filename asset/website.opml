@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>sayo subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="design" title="design">
+            <outline type="rss" text="小林章のドイツ日記２" title="小林章のドイツ日記２" xmlUrl="https://dnikki2.exblog.jp/atom.xml" htmlUrl="http://dnikki2.exblog.jp"/>
+            <outline type="rss" text="Emojipedia" title="Emojipedia" xmlUrl="http://blog.emojipedia.org/rss/" htmlUrl="https://blog.emojipedia.org/"/>
+            <outline type="rss" text="Designing Medium - Medium" title="Designing Medium - Medium" xmlUrl="https://medium.design/feed" htmlUrl="https://medium.design?source=rss----c83e8f1cb0ef---4"/>
+            <outline type="rss" text="justfont blog" title="justfont blog" xmlUrl="https://blog.justfont.com/feed/" htmlUrl="https://blog.justfont.com"/>
+        </outline>
+        <outline text="video" title="video">
+            <outline type="rss" text="The Verge" title="The Verge" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCddiUEpeqJcYeBxX1IVBKvQ" htmlUrl="https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ"/>
+            <outline type="rss" text="Dave Lee" title="Dave Lee" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVYamHliCI9rw1tHR1xbkfw" htmlUrl="https://www.youtube.com/channel/UCVYamHliCI9rw1tHR1xbkfw"/>
+            <outline type="rss" text="dogsama" title="dogsama" xmlUrl="https://rsshub.app/bilibili/user/video/178630" htmlUrl="https://space.bilibili.com/178630"/>
+            <outline type="rss" text="哔哩哔哩番剧" title="哔哩哔哩番剧" xmlUrl="https://rsshub.app/bilibili/user/video/928123" htmlUrl="https://space.bilibili.com/928123"/>
+            <outline type="rss" text="柴知道" title="柴知道" xmlUrl="https://www.youtube.com/playlist?list=UUQtwvRQWnT5Buh9hpvNNryQ" htmlUrl="https://youtube.com/playlist?list=UUQtwvRQWnT5Buh9hpvNNryQ"/>
+            <outline type="rss" text="TESTV" title="TESTV" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC9v3JGut2Z1PxrXEpGzgEAA" htmlUrl="https://www.youtube.com/channel/UC9v3JGut2Z1PxrXEpGzgEAA"/>
+            <outline type="rss" text="Rambalac" title="Rambalac" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAcsAE1tpLuP3y7UhxUoWpQ" htmlUrl="https://www.youtube.com/channel/UCAcsAE1tpLuP3y7UhxUoWpQ"/>
+            <outline type="rss" text="PureCosmos" title="PureCosmos" xmlUrl="https://www.youtube.com/playlist?list=UUVl8zOa4D8r4yAH1Gkg0pSg" htmlUrl="https://youtube.com/playlist?list=UUVl8zOa4D8r4yAH1Gkg0pSg"/>
+            <outline type="rss" text="红酒汤姆一世" title="红酒汤姆一世" xmlUrl="https://rsshub.app/bilibili/user/video/567673" htmlUrl="https://space.bilibili.com/567673"/>
+            <outline type="rss" text="iPhonedo" title="iPhonedo" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvkODZ-I4tsdP2Qopov0jrA" htmlUrl="https://www.youtube.com/channel/UCvkODZ-I4tsdP2Qopov0jrA"/>
+            <outline type="rss" text="justfont" title="justfont" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UC1j5OXLtUj_Hq3zjsITs4Bw" htmlUrl="https://www.youtube.com/channel/UC1j5OXLtUj_Hq3zjsITs4Bw"/>
+            <outline type="rss" text="极客湾" title="极客湾" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeUJO1H3TEXu2syfAAPjYKQ" htmlUrl="https://www.youtube.com/channel/UCeUJO1H3TEXu2syfAAPjYKQ"/>
+            <outline type="rss" text="Vox" title="Vox" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLXo7UDZvByw2ixzpQCufnA" htmlUrl="https://www.youtube.com/channel/UCLXo7UDZvByw2ixzpQCufnA"/>
+            <outline type="rss" text="TheRelaxingEnd" title="TheRelaxingEnd" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWVuy4NPohItH9-Gr7e8wqw" htmlUrl="https://www.youtube.com/channel/UCWVuy4NPohItH9-Gr7e8wqw"/>
+            <outline type="rss" text="DistroTube" title="DistroTube" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg" htmlUrl="https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg"/>
+            <outline type="rss" text="Techquickie" title="Techquickie" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0vBXGSyV14uvJ4hECDOl0Q" htmlUrl="https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q"/>
+            <outline type="rss" text="FView" title="FView" xmlUrl="https://rsshub.app/bilibili/user/video/7458285" htmlUrl="https://space.bilibili.com/7458285"/>
+            <outline type="rss" text="TechAltar" title="TechAltar" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCtZO3K2p8mqFwiKWb9k7fXA" htmlUrl="https://www.youtube.com/channel/UCtZO3K2p8mqFwiKWb9k7fXA"/>
+            <outline type="rss" text="Austin Evans" title="Austin Evans" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXGgrKt94gR6lmN4aN3mYTg" htmlUrl="https://www.youtube.com/channel/UCXGgrKt94gR6lmN4aN3mYTg"/>
+            <outline type="rss" text="Wall Street Journal" title="Wall Street Journal" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ" htmlUrl="https://www.youtube.com/channel/UCK7tptUDHh-RYDsdxO1-5QQ"/>
+            <outline type="rss" text="Apple" title="Apple" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCE_M8A5yxnLfW0KghEeajjw" htmlUrl="https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw"/>
+            <outline type="rss" text="Switch喵呱子" title="Switch喵呱子" xmlUrl="https://rsshub.app/bilibili/user/video/35591280" htmlUrl="https://space.bilibili.com/35591280"/>
+            <outline type="rss" text="回形针PaperClip" title="回形针PaperClip" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCUGJ-yKqQHl4FSZwUmGpiUg" htmlUrl="https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg"/>
+            <outline type="rss" text="混乱博物馆" title="混乱博物馆" xmlUrl="https://rsshub.app/bilibili/user/video/97177641" htmlUrl="https://space.bilibili.com/97177641"/>
+            <outline type="rss" text="iFixit" title="iFixit" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCHbx9IUW7eCeJsC4sBCTNBA" htmlUrl="https://www.youtube.com/channel/UCHbx9IUW7eCeJsC4sBCTNBA"/>
+            <outline type="rss" text="Verge Science" title="Verge Science" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCtxJFU9DgUhfr2J2bveCHkQ" htmlUrl="https://www.youtube.com/channel/UCtxJFU9DgUhfr2J2bveCHkQ"/>
+            <outline type="rss" text="Veritasium" title="Veritasium" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA" htmlUrl="https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA"/>
+            <outline type="rss" text="Polygon" title="Polygon" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCuVxaQDraOja6xKidcmoufA" htmlUrl="https://www.youtube.com/channel/UCuVxaQDraOja6xKidcmoufA"/>
+            <outline type="rss" text="Johnny Harris" title="Johnny Harris" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmGSJVG3mCRXVOP4yZrU1Dw" htmlUrl="https://www.youtube.com/channel/UCmGSJVG3mCRXVOP4yZrU1Dw"/>
+            <outline type="rss" text="Seeker" title="Seeker" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzWQYUVCpZqtN93H8RR44Qw" htmlUrl="https://www.youtube.com/channel/UCzWQYUVCpZqtN93H8RR44Qw"/>
+            <outline type="rss" text="Gamker攻壳" title="Gamker攻壳" xmlUrl="https://rsshub.app/bilibili/user/video/13297724" htmlUrl="https://space.bilibili.com/13297724"/>
+            <outline type="rss" text="LinusTechTips" title="LinusTechTips" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw" htmlUrl="https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw"/>
+            <outline type="rss" text="Marques Brownlee" title="Marques Brownlee" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ" htmlUrl="https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ"/>
+            <outline type="rss" text="Nintendo" title="Nintendo" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkH3CcMfqww9RsZvPRPkAJA" htmlUrl="https://www.youtube.com/channel/UCkH3CcMfqww9RsZvPRPkAJA"/>
+            <outline type="rss" text="Anitama" title="Anitama" xmlUrl="https://rsshub.app/bilibili/user/video/11357018" htmlUrl="https://space.bilibili.com/11357018"/>
+        </outline>
+        <outline text="develope" title="develope">
+            <outline type="rss" text="Microsoft Docs" title="Microsoft Docs" xmlUrl="https://docs.microsoft.com/en-us/teamblog/feed.xml" htmlUrl="https://docs.microsoft.com/teamblog/"/>
+            <outline type="rss" text="Mozilla Hacks" title="Mozilla Hacks" xmlUrl="https://hacks.mozilla.org/feed/" htmlUrl="https://hacks.mozilla.org"/>
+            <outline type="rss" text="Apple ML" title="Apple ML" xmlUrl="https://machinelearning.apple.com/feed.xml" htmlUrl="https://machinelearning.apple.com/"/>
+            <outline type="rss" text="Google AI" title="Google AI" xmlUrl="http://googleresearch.blogspot.com/atom.xml" htmlUrl="http://ai.googleblog.com/"/>
+            <outline type="rss" text="Fedora Magazine" title="Fedora Magazine" xmlUrl="https://fedoramagazine.org/feed/" htmlUrl="https://fedoramagazine.org"/>
+            <outline type="rss" text="The Netflix Tech Blog" title="The Netflix Tech Blog" xmlUrl="http://techblog.netflix.com/feeds/posts/default" htmlUrl="https://netflixtechblog.com?source=rss----2615bd06b42e---4"/>
+            <outline type="rss" text="Mozilla Blog" title="Mozilla Blog" xmlUrl="http://blog.mozilla.com/feed/" htmlUrl="https://blog.mozilla.org"/>
+            <outline type="rss" text="Google Web Updates" title="Google Web Updates" xmlUrl="https://developers.google.com/web/updates/rss.xml" htmlUrl="https://developers.google.com/web/updates/?utm_source=feed&amp;utm_medium=feed&amp;utm_campaign=updates_feed"/>
+            <outline type="rss" text="Microsoft Research" title="Microsoft Research" xmlUrl="https://www.microsoft.com/en-us/research/feed/" htmlUrl="https://www.microsoft.com/en-us/research"/>
+            <outline type="rss" text="Apple Developer" title="Apple Developer" xmlUrl="http://developer.apple.com/rss/iphonedevnews.rss" htmlUrl="https://developer.apple.com/news/"/>
+        </outline>
+        <outline text="favorite" title="favorite">
+            <outline type="rss" text="engadget 中" title="engadget 中" xmlUrl="https://rsshub.app/engadget-cn" htmlUrl="http://cn.engadget.com"/>
+            <outline type="rss" text="跨之声" title="跨之声" xmlUrl="https://rsshub.app/bilibili/user/dynamic/164032332" htmlUrl="https://space.bilibili.com/164032332/dynamic"/>
+            <outline type="rss" text="性、性别与性向" title="性、性别与性向" xmlUrl="https://rsshub.app/zhihu/zhuanlan/feminism" htmlUrl="https://zhuanlan.zhihu.com/feminism"/>
+            <outline type="rss" text="ny times 简" title="ny times 简" xmlUrl="https://cn.nytimes.com/rss/" htmlUrl="https://cn.nytimes.com"/>
+            <outline type="rss" text="朝日 简" title="朝日 简" xmlUrl="https://rsshub.app/asahichinese-j/society" htmlUrl="https://asahichinese-j.com/society/"/>
+            <outline type="rss" text="Emojipedia" title="Emojipedia" xmlUrl="http://blog.emojipedia.org/rss/" htmlUrl="https://blog.emojipedia.org/"/>
+            <outline type="rss" text="Xbox Wire" title="Xbox Wire" xmlUrl="http://news.xbox.com/feed/stories" htmlUrl="https://news.xbox.com/en-us"/>
+            <outline type="rss" text="ft 简" title="ft 简" xmlUrl="https://rsshub.app/ft/chinese" htmlUrl="http://www.ftchinese.com/"/>
+            <outline type="rss" text="北京同志中心" title="北京同志中心" xmlUrl="https://rsshub.app/wechat/csm/bjlgbtcenter" htmlUrl="https://chuansongme.com/account/bjlgbtcenter"/>
+            <outline type="rss" text="wsj 中文" title="wsj 中文" xmlUrl="https://cn.wsj.com/zh-hans/rss" htmlUrl="https://cn.wsj.com"/>
+            <outline type="rss" text="好奇心日报" title="好奇心日报" xmlUrl="http://ftr.fivefilters.org/makefulltextfeed.php?url=www.qdaily.com/feed.xml&amp;max=3&amp;links=preserve" htmlUrl="http://www.qdaily.com/feed.xml"/>
+            <outline type="rss" text="少数派" title="少数派" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com"/>
+            <outline type="rss" text="the verge" title="the verge" xmlUrl="http://www.theverge.com/rss/full.xml" htmlUrl="https://www.theverge.com/"/>
+            <outline type="rss" text="端傳媒" title="端傳媒" xmlUrl="https://theinitium.com/feeds/" htmlUrl="https://theinitium.com/newsfeed/"/>
+        </outline>
+        <outline text="play" title="play">
+            <outline type="rss" text="Xbox Wire" title="Xbox Wire" xmlUrl="http://news.xbox.com/feed/stories" htmlUrl="https://news.xbox.com/en-us"/>
+            <outline type="rss" text="Polygon" title="Polygon" xmlUrl="http://www.polygon.com/rss/full.xml" htmlUrl="https://www.polygon.com/"/>
+            <outline type="rss" text="IGN" title="IGN" xmlUrl="http://feeds.ign.com/ign/games-all" htmlUrl="https://www.ign.com/articles"/>
+            <outline type="rss" text="游戏时光头条" title="游戏时光头条" xmlUrl="http://www.vgtime.com/rss.jhtml" htmlUrl="https://www.vgtime.com"/>
+        </outline>
+        <outline text="blog" title="blog">
+            <outline type="rss" text="Signal Blog" title="Signal Blog" xmlUrl="https://whispersystems.org/blog/rss.xml" htmlUrl="https://signal.org/blog/"/>
+            <outline type="rss" text="Patently Apple" title="Patently Apple" xmlUrl="http://feeds.feedburner.com/patentlyapple/SZdI?format=xml" htmlUrl="https://www.patentlyapple.com/patently-apple/"/>
+            <outline type="rss" text="林一二的开放记忆" title="林一二的开放记忆" xmlUrl="https://onetwo.ren/feed.xml" htmlUrl="https://onetwo.ren/"/>
+            <outline type="rss" text="Cobalt Blue" title="Cobalt Blue" xmlUrl="http://yuezhu.org/feed/" htmlUrl="https://yuezhu.org"/>
+            <outline type="rss" text="一天世界" title="一天世界" xmlUrl="https://blog.yitianshijie.net/feed" htmlUrl="https://blog.yitianshijie.net"/>
+            <outline type="rss" text="图月志" title="图月志" xmlUrl="http://iconmoon.com/blog2/feed.php" htmlUrl="http://iconmoon.com/blog2/index.php"/>
+            <outline type="rss" text="Panic Blog" title="Panic Blog" xmlUrl="https://panic.com/blog/feed/" htmlUrl="https://panic.com/blog"/>
+            <outline type="rss" text="大破进击" title="大破进击" xmlUrl="https://jesor.me/feed.xml" htmlUrl="https://jesor.me/"/>
+            <outline type="rss" text="NetNewsWire" title="NetNewsWire" xmlUrl="https://nnw.ranchero.com/feed.xml" htmlUrl="https://nnw.ranchero.com/"/>
+            <outline type="rss" text="Pandora Blog" title="Pandora Blog" xmlUrl="http://blog.pandora.com/feed/" htmlUrl="https://blog.pandora.com"/>
+            <outline type="rss" text="MetaBrainz Blog" title="MetaBrainz Blog" xmlUrl="http://blog.musicbrainz.org/?feed=rss2" htmlUrl="https://blog.metabrainz.org"/>
+            <outline type="rss" text="Type is Beautiful" title="Type is Beautiful" xmlUrl="https://thetype.com/feed" htmlUrl="https://www.thetype.com"/>
+            <outline type="rss" text="siipo.la" title="siipo.la" xmlUrl="https://siipo.la/feed" htmlUrl="https://siipo.la"/>
+        </outline>
+    </body>
+</opml>
