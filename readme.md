@@ -1,8 +1,8 @@
 🏳️‍⚧️ 🍩 🎵 📖 📷 💻 , 💭 think different
 
-💬 social: [twitter](https://twitter.com/sayo_melu), [instagram](https://instagram.com/sayo_melu)
+💬 social: [mail](mailto://hi.sayo@outlook.com), [twitter](https://twitter.com/sayomelu), [instagram](https://instagram.com/sayomelu)
 
-🎈 play: [spotify](https://open.spotify.com/user/qnintpw1ar8z4wjs95m971lwq), [listenbrainz](https://listenbrainz.org/user/m94810), [lastfm](https://www.last.fm/user/l38502)
+🎈 play: [spotify](https://open.spotify.com/user/qnintpw1ar8z4wjs95m971lwq), [listenbrainz](https://listenbrainz.org/user/m94810)
 
 📰 subscribe: [website](asset/website.opml), [podcast](asset/podcast.opml)
 
