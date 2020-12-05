@@ -6,4 +6,4 @@
 
 📰 subscribe: [website](asset/website.opml), [podcast](asset/podcast.opml)
 
-💞 sponsor: [paypal](https://paypal.me/p49302), [afdian](https://afdian.net/@sayo-melu)
+💞 sponsor: [paypal](https://paypal.me/p49302), [afdian](https://afdian.net/@sayomelu), [patreon](https://www.patreon.com/sayomelu)
