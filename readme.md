@@ -1,6 +1,6 @@
 🏳️‍⚧️ 🍩 🎵 📖 📷 💻 , 💭 think different
 
-💬 social: [mail](mailto://hi.sayo@outlook.com), [twitter](https://twitter.com/sayomelu), [instagram](https://instagram.com/sayomelu)
+💬 social: [mail](mailto://hi.sayo@outlook.com), [twitter](https://twitter.com/sayomelu)
 
 🎈 play: [spotify](https://open.spotify.com/user/qnintpw1ar8z4wjs95m971lwq), [listenbrainz](https://listenbrainz.org/user/m94810)
 
