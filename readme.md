@@ -1,7 +1,3 @@
----
-permalink: index.html
----
-
 # sayo melu
 
 🏳️‍⚧️ 🍩 🎵 📖 📷 💻 , 💭 think different
