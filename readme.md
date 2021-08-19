@@ -2,7 +2,9 @@
 
 🏳️‍⚧️ 🍩 🎵 📖 📷 💻 , 💭 think different
 
-💬 [mail](mailto:hi.sayo@outlook.com), [telegram](https://t.me/sayo_melu), [twitter](https://twitter.com/sayo_melu), [instagram](https://www.instagram.com/sayo_melu)
+💬 [mail](mailto:hi.sayo@outlook.com), [telegram](https://t.me/sayo_melu), [twitter](https://twitter.com/sayo_melu)
+
+🖥 [github](https://github.com/sayo-melu)
 
 🎈 [music](https://music.apple.com/profile/sayo_melu), [spotify](https://open.spotify.com/user/qnintpw1ar8z4wjs95m971lwq), [listenbrainz](https://listenbrainz.org/user/m94810)
 
