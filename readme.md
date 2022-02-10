@@ -3,12 +3,9 @@
 🏳️‍⚧️ 🍩 🎵 📖 💻 , 💭 think different
 
 💬
-[mail](mailto:hi.sayo@outlook.com)
-[telegram](https://t.me/sayomelu)
-[twitter](https://twiter.com/super_sayomelu)
-
-🖥
-[github](https://github.com/sayomelu)
+[mail](mailto:anyuzu99@outlook.com)
+[telegram](https://t.me/t42596)
+[twitter](https://twiter.com/t52674)
 
 🎈
 [spotify](https://open.spotify.com/user/qnintpw1ar8z4wjs95m971lwq)
