@@ -1,4 +1,4 @@
-# sayo melu
+# 安ゆず Yuzu An
 
 🏳️‍⚧️ 🍩 🎵 📖 💻 , 💭 think different
 
