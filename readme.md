@@ -19,8 +19,4 @@
 [afdian](https://afdian.net/@sayomelu)
 [patreon](https://www.patreon.com/sayomelu)
 
-## article
-
-- [govermment 5 level](article/2021/government_5_level.md)
-- [sync guide for macos](article/2021/sync_guide_for_macos.md)
-- [taobao cloth store](article/2021/taobao_cloth_store.md)
+## [article](./article)
