@@ -20,4 +20,4 @@
 [patreon](https://www.patreon.com/sayomelu)
 
 ✍️ [article](./article)
-[rss feed](https://github.com/anyuzu99/anyuzu99/commits/main.atom)
+[rss](https://github.com/anyuzu99/anyuzu99/commits/main.atom)
