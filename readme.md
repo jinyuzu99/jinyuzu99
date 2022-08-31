@@ -19,4 +19,5 @@
 [afdian](https://afdian.net/@sayomelu)
 [patreon](https://www.patreon.com/sayomelu)
 
-## [article](./article)
+✍️ [article](./article)
+[rss feed](https://github.com/anyuzu99/anyuzu99/commits/main.atom)
