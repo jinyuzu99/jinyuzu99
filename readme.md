@@ -21,7 +21,6 @@
 💞
 [crypto](asset/crypto.md),
 [paypal](https://paypal.me/p49302),
-[afdian](https://afdian.net/@sayomelu),
 [patreon](https://www.patreon.com/sayomelu)
 
 ✍️
