@@ -1,6 +1,8 @@
-# 安ゆず Yuzu An
+# an yuzu
 
-🏳️‍⚧️ 🍩 🎵 📖 💻 , 💭 think different
+🍩 🎵 🎮 🎬 📖 📷 💻 💊
+
+♓️ INFP, 💭 think different
 
 💬
 [mail](mailto:anyuzu99@outlook.com)
