@@ -12,7 +12,8 @@
 
 🎈
 [spotify](https://open.spotify.com/user/qnintpw1ar8z4wjs95m971lwq),
-[listenbrainz](https://listenbrainz.org/user/m94810)
+[listenbrainz](https://listenbrainz.org/user/m94810),
+[steam](https://steamcommunity.com/id/anyuzu99)
 
 📰
 [website](asset/website.opml),
