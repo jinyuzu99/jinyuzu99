@@ -6,7 +6,6 @@
 
 💬
 [mail](mailto:anyuzu99@outlook.com),
-[imessage](sms:1-337-435-2247),
 [telegram](https://t.me/anyuzu99),
 [twitter](https://twiter.com/anyuzu99),
 [channel](https://t.me/yuzu_channel)
