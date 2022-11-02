@@ -28,4 +28,5 @@
 [article](./article),
 [rss](https://github.com/anyuzu99/anyuzu99/commits/main.atom)
 
-[contact card](asset/anyuzu99.vcf)
+🔗
+[contact card](https://raw.githubusercontent.com/anyuzu99/anyuzu99/main/asset/anyuzu99.vcf)
