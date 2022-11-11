@@ -5,7 +5,7 @@
 ♓️ INFP, 💭 think different
 
 💬
-[mail](mailto:anyuzu99@outlook.com),
+[mail](mailto:i@9902259.xyz),
 [telegram](https://t.me/anyuzu99),
 [twitter](https://twitter.com/anyuzu99),
 [channel](https://t.me/yuzu_channel)
