@@ -7,10 +7,11 @@
 💬
 [mail](mailto:i@9902259.xyz),
 [telegram](https://t.me/anyuzu99),
-[twitter](https://twitter.com/anyuzu99),
+[twitter](https://twitter.com/anyuzu4578),
 [channel](https://t.me/yuzu_channel)
 
 🎈
+[apple music](https://music.apple.com/profile/anyuzu99)
 [spotify](https://open.spotify.com/user/qnintpw1ar8z4wjs95m971lwq),
 [listenbrainz](https://listenbrainz.org/user/m94810),
 [steam](https://steamcommunity.com/id/anyuzu99)
@@ -21,8 +22,9 @@
 
 💞
 [crypto](asset/crypto.md),
-[paypal](https://paypal.me/p49302),
-[patreon](https://www.patreon.com/sayomelu)
+[stripe](https://buy.stripe.com/9AQcOocZi6GtatO4gm)
+[paypal](https://paypal.me/p48392),
+[patreon](https://www.patreon.com/anyuzu99)
 
 ✍️
 [article](./article),
