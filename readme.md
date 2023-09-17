@@ -22,7 +22,7 @@
 
 💞
 [crypto](asset/crypto.md),
-[stripe](https://donate.stripe.com/cN2dSs3oI0i59pK3ck)
+[stripe](https://donate.stripe.com/28o6q05wQe8V59ueV3)
 [paypal](https://paypal.me/p48392),
 [patreon](https://www.patreon.com/anyuzu99)
 
