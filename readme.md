@@ -1,4 +1,4 @@
-# jin yuzu
+# Yuzu Jin
 
 🍩 🎵 🎮 🎬 📖 📷 💻 🧠
 
@@ -6,15 +6,15 @@
 
 💬
 [mail](mailto:i@9902259.xyz),
-[telegram](https://t.me/jinyuzu99),
+[telegram](https://t.me/yuzujin99),
 [twitter](https://twitter.com/hanabi8964_3),
 [channel](https://t.me/yuzu_channel)
 
 🎈
-[apple music](https://music.apple.com/profile/jinyuzu99)
+[apple music](https://music.apple.com/profile/yuzujin99)
 [spotify](https://open.spotify.com/user/qnintpw1ar8z4wjs95m971lwq),
 [listenbrainz](https://listenbrainz.org/user/m94810),
-[steam](https://steamcommunity.com/id/jinyuzu99)
+[steam](https://steamcommunity.com/id/yuzujin99)
 
 📰
 [website](asset/website.opml),
@@ -27,7 +27,7 @@
 
 ✍️
 [article](./article),
-[rss](https://github.com/jinyuzu99/jinyuzu99/commits/main.atom)
+[rss](https://github.com/yuzujin99/yuzujin99/commits/main.atom)
 
 🪪
-[contact card](https://raw.githubusercontent.com/jinyuzu99/jinyuzu99/main/asset/anyuzu99.vcf)
+[contact card](https://raw.githubusercontent.com/yuzujin99/yuzujin99/main/asset/Yuzu_Jin.vcf)
