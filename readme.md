@@ -5,8 +5,7 @@
 ♓️ INFP, 💭 think different
 
 💬
-[Mail](mailto:i@9902259.xyz),
-[iMessage](imessage://i@9902259.xyz),
+[Mail & iMessage](mailto:i@9902259.xyz),
 [Telegram](https://t.me/yuzujin99),
 [Bluesky](https://bsky.app/profile/yuzujin99.bsky.social),
 [Instagram](https://instagram.com/yuzujin99),
