@@ -3,7 +3,8 @@
 🍩 🎵 🎮 🎬 📖 📷 💻 🧠, 💭 think different
 
 💬
-[Mail & iMessage](mailto:i@9902259.xyz),
+[Mail](mailto:i@9902259.xyz),
+[iMessage](mailto:i@9902259.xyz),
 [Telegram](https://t.me/jinyuzu99),
 [Bluesky](https://bsky.app/profile/jinyuzu99.bsky.social),
 [Instagram](https://instagram.com/jinyuzu99),
