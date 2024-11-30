@@ -1,21 +1,19 @@
 # Yuzu Jin
 
-🍩 🎵 🎮 🎬 📖 📷 💻 🧠
-
-♓️ INFP, 💭 think different
+🍩 🎵 🎮 🎬 📖 📷 💻 🧠, 💭 think different
 
 💬
 [Mail & iMessage](mailto:i@9902259.xyz),
-[Telegram](https://t.me/yuzujin99),
-[Bluesky](https://bsky.app/profile/yuzujin99.bsky.social),
-[Instagram](https://instagram.com/yuzujin99),
+[Telegram](https://t.me/jinyuzu99),
+[Bluesky](https://bsky.app/profile/jinyuzu99.bsky.social),
+[Instagram](https://instagram.com/jinyuzu99),
 [Channel](https://t.me/yuzu_channel)
 
 🎈
-[Apple Music](https://music.apple.com/profile/yuzujin99),
+[Apple Music](https://music.apple.com/profile/jinyuzu99),
 [Spotify](https://open.spotify.com/user/qnintpw1ar8z4wjs95m971lwq),
 [ListenBrainz](https://listenbrainz.org/user/m94810),
-[Steam](https://steamcommunity.com/id/yuzujin99)
+[Steam](https://steamcommunity.com/id/jinyuzu99)
 
 📰
 [Website](asset/website.opml),
@@ -28,7 +26,6 @@
 
 ✍️
 [Article](./article),
-[RSS](https://github.com/yuzujin99/yuzujin99/commits/main.atom)
 
 🪪
-[Contact](https://raw.githubusercontent.com/yuzujin99/yuzujin99/main/asset/Yuzu_Jin.vcf)
+[Contact](https://raw.githubusercontent.com/jinyuzu99/jinyuzu99/main/asset/Yuzu_Jin.vcf)
